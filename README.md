@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python)](https://skillicons.dev)
+
 <!--
 **tonino-antoni/tonino-antoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
